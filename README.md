@@ -1,5 +1,5 @@
 # Fully automated Tiktok Viewbot
-Runs at about 2-5k w free proxies, can go insanely fast with UHQ proxies and decent hardware.
+Runs at 2-5k views/second with free proxies, can go insanely fast with UHQ proxies and decent hardware.
 ![gif](main)
 
 ### Video showcase:
